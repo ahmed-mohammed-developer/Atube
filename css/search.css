@@ -6,12 +6,12 @@
      display: none;
 }
 input:checked+span {
-     color: #bf40bf;
+     color: #005430;
 }
 
 time {
      bottom: 7px;
-     left: 29px;
+     left:15px;
 }
 @media (width < 768px) {
      .card .card-top-image {
