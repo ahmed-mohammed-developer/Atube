@@ -19,15 +19,25 @@
      display: none;
 }
 .card .btn {
-     background-color: #921192;
-     border-color: #921192;
+     background-color: #005430;
+     border-color: #005430;
      color: #fff;
 }
 .card .btn:hover {
-     background-color: #b915b9;
+     background-color: #03693d;
 }
 div.dropdown-menu {
      inset: 0px 98px auto auto !important;
+}
+.card .fa-play {
+     top: 41%;
+ }
+time {
+     bottom: 5px;
+     left: 18px ;
+}
+.card .card-title {
+     height: 30px;
 }
 @media (min-width: 992px) {
      time {
